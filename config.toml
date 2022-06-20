@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tiny-pixie-d16dd9.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "FUHE JIN"
