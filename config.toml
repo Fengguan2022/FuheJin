@@ -33,7 +33,7 @@ enableEmoji = true
   description = "From breadth through depth to perspective"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["teach", "research", "diversity"]
+  mainSections = ["teaching", "research", "diversity"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
