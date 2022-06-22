@@ -3,10 +3,11 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Hi, I am Fuhe. Welcome
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+I am a Mom, a PhD candidate, and a Course Instructor... yep, multitasking is my survival mechanism. 
+
+After a decade-long career in multiple business organizations (2008-2018), I begin to pursue a PhD. in Leadership and Organizational science at Binghamton University.

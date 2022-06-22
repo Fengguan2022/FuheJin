@@ -2,17 +2,14 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: I am a Mom, a PhD candidate, and a Course Instructor... yep, multitasking is my survival mechanism. After a decade-long career in multiple business organizations (2008-2018), I begin to pursue a PhD. in Leadership and Organizational science at Binghamton University. 
+
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A baby girl Mom, Phd Student from SUNY-Binghamton
+subtitle: A baby girl's Mom, Phd Student from SUNY-Binghamton
 text_align_left: false
 title: Fuhe Jin
 type: home

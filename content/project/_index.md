@@ -1,7 +1,7 @@
 ---
 author: The R Markdown Team @RStudio
 cascade:
-  show_author_byline: true
+  show_author_byline: True
   show_comments: false
   show_post_date: true
   sidebar:
