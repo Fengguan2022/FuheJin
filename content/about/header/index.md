@@ -8,6 +8,10 @@ headline: |
 
 <!-- this is a subheadline -->
 
-I am a Mom, a PhD candidate, and a Course Instructor... yep, multitasking is my survival mechanism. 
+After a decade-long career in multiple business organizations (2008-2018), I begin to pursue a PhD. in Leadership and Organizational Science at Binghamton University. 
 
-After a decade-long career in multiple business organizations (2008-2018), I begin to pursue a PhD. in Leadership and Organizational science at Binghamton University.
+In the same year of enrollment, I became a mom. 
+
+Parenting and simultaneously pursuing a doctorate degree is a supreme challenge, but it taught me to make use of small pockets of time and work in more creative ways. 
+
+I’m devoted to become a researcher AND teacher, better able to "grow others."

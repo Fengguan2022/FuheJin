@@ -2,15 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a Mom, a PhD candidate, and a Course Instructor... yep, multitasking is my survival mechanism. After a decade-long career in multiple business organizations (2008-2018), I begin to pursue a PhD. in Leadership and Organizational science at Binghamton University. 
+description: I am a Ph.D. candidate, a Course Instructor, and a Mom... yep, multitasking is my survival mechanism. I am interested in applying advanced research methods and multilevel perspectives to understand group dynamics and leadership in organizations. I am particularly interested in studying leadership in virtual groups. I am devoted to become a researcher AND teacher, better able to "grow others."
 
 image_left: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A baby girl's Mom, Phd Student from SUNY-Binghamton
-text_align_left: false
+subtitle: DOCTORAL CANDIDATE AT BINGHAMTON UNIVERSITY, SUNY
+text_align_left: true
 title: Fuhe Jin
 type: home
 ---
