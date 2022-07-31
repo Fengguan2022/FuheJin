@@ -3,9 +3,7 @@ author: Fuhe Jin
 
 date: "2022-07-04"
 draft: True
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: 
 featured: true
 layout: single
 
