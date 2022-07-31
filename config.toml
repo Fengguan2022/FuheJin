@@ -118,7 +118,7 @@ enableEmoji = true
     weight = 2
   [[menu.header]]
     name = "Research"
-    title = "Research Pipeline"
+    title = "Research Portfolio"
     url = "/project/"
     weight = 3
   # [[menu.header]]

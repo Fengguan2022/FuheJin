@@ -4,7 +4,7 @@ author: Fuhe Jin
 date: "2022-07-04"
 draft: False
 excerpt: My conference papers.
-featured: False
+featured: true
 layout: single
 
 subtitle: ""
