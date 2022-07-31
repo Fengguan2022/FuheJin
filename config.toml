@@ -121,16 +121,16 @@ enableEmoji = true
     title = "Research Pipeline"
     url = "/project/"
     weight = 3
-  [[menu.header]]
-    name = "Service"
-    title = "Service"
-    url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "Diversity"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
+  # [[menu.header]]
+  #  name = "Service"
+  #  title = "Service"
+  #  url = "/talk/"
+  #  weight = 4
+  # [[menu.header]]
+  #  name = "Diversity"
+  #  title = "A collection"
+  #  url = "/collection/"
+  #  weight = 5
     
   # Configure footer  
   # [[menu.footer]]

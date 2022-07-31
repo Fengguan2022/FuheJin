@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "Career 1.0" # leave blank to exclude
+title: "Career 2.0 --Academic Experience" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
@@ -8,7 +8,8 @@ show_intro: true
 intro: |
   *2019-present*   Research Assistant and Instructor
                  School of Management, **Binghamton University, State University of New York**
-
+  ## Career 1.0 --Industry Experience
+  
   *2015-2018*      Business Development Manager for Asia
                  Global Sourcing & Export (GSE) Dept., **Univar China Limited., Qingdao, China**
 

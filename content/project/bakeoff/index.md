@@ -1,66 +1,40 @@
 ---
-author: Eric Anderson
-categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+author: 
+# categories:
+# - R
+# -
+date: "2022-07-04"
 draft: false
 excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
   integration. All you need to activate the form is a valid recipient email address
   saved in the form front matter.
 layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+# links:
+# - icon: door-open
+#  icon_pack: fas
+#  name: website
+#  url: https://bakeoff.netlify.com/
+# - icon: github
+#  icon_pack: fab
+#  name: code
+#  url: https://github.com/apreshill/bakeoff
+subtitle: 
 tags:
 - hugo-site
-title: Bakeoff
+title: Journal Papers
 ---
 
-![Formspree Logo](formspree-logo.png)
+### JOURNAL ARTICLES 
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+[Tsai, C.-Y., Kim, J., Jin, F., Jun, M., Cheong, M., & Yammarino, F. J. (2022). Polynomial regression analysis and response surface methodology in leadership research. The Leadership Quarterly, 101592.](https://www.sciencedirect.com/science/article/pii/S1048984321000977) 
 
----
+### JOURNAL ARTICLES UNDER REVIEW
 
-### Functional Form
+Jin, F., Topaloglu, E., Tsai, C.-Y., Liu, Y., & Taras, V., Conflict perceptions over time in virtual teams: Cross-level moderating role of collectivist values. Under review at Journal of Business and Psychology. 
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+Choudhury, A., Maupin, CK., Jin, F., Resnick, S., & Jun, M., Collectivistic leadership approaches: Clarifying the state of the science for enabling practice. Revise & Resubmit at The Leadership Quarterly (1st round).  
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+Maupin, CK., Mohan, G., Choudhury, A., Deepak, P., & Jin, F., Network-based approaches in leadership: An integrative methodological review. Revise & Resubmit at The Leadership Quarterly (2nd round). 
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
 
-### Multiple Layouts
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.

@@ -4,16 +4,13 @@ categories:
 - Theme Features
 date: "2021-01-27"
 draft: false
-excerpt: This theme offers three ways to customize your site's fonts. Choose from
-  6 embedded font options, including 3 serif and 3 sans-serif fonts, or rely on system
-  fonts with reliable fallbacks using Tachyons. You may also bring your own font files
-  (CSS required!).
+excerpt: Here is my teaching experience. And I am happy to share some new ideas about how to instruct better. I will share some learning material here to help students learn better. <Br><Br> Team Leadership (LEAD-552) Fall 2022 (Live Lecture) – Instructor;<Br>Avg. Student Rating on Instructor Overall (SOOT):Not yet available<Br><Br> Organizational Behavior Spring 2022 (Live Lecture) – Instructor;<Br> Avg. Student Rating on Instructor Overall (SOOT) 3.67/4.0<Br> <Br>Organizational Behavior Fall 2021 (Live Lecture) – Instructor<Br>Avg. Student Rating on Instructor Overall (SOOT) 3.4/4.0<Br><Br>Strategic Management Spring 2020 (Synchronous Online) – Guest presenter-Avg.Student Evaluation 94/100 <Br><Br>Advanced Business Statistics Fall 2020 (Synchronous Online) – Guest presenter-Avg. Student Evaluation 95/100 
 layout: single
 subtitle: Use an embedded font (no CSS required!), rely on system fonts reliably using
   Tachyons, or bring your own font files- your choice.
 tags:
 - style
-title: Style your site typography
+title: My Teaching Evaluation
 ---
 
 As with [color themes](../color-themes), you can completely customize your site's fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.

@@ -1,9 +1,9 @@
 ---
-author: Eric Anderson
+author: Fuhe Jin
 categories:
-- Theme Features
-- R
-- package
+- 
+- 
+- 
 date: "2019-07-03"
 draft: false
 excerpt: Building this static site generator theme was the first time I used an Atomic
@@ -14,7 +14,7 @@ subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical partic
   always moves faster than light.
 tags:
 - hugo-site
-title: Tachyons for Style
+title: Current Projects
 ---
 
 ![Tachyons Logo Script](tachyons-logo-script.png)
