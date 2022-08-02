@@ -1,19 +1,23 @@
 ---
 author: Fuhe Jin
-categories:
-- 
-- 
-- 
-date: "2022-07-31"
+date: "2022-08-02"
 draft: false
 excerpt: My current Projects
 layout: single
 subtitle: Some current projects
-tags:
-- hugo-site
 title: Current Projects
 ---
----
+Group dynamics in virtual work
+-	Temporal changes in team efficacy 
+-	Robot avatar & Team conflict
+-	Virtual teaming 
+-	Virtual entrepreneurship education & training
 
-### Current Projects
+Leadership in virtual work
+-	Multilevel leadership effectiveness 
+-	Leader distance 
+-	Leader emergence in virtual teams 
 
+Other topics 
+-	CEO life cycle 
+-	Employee green behavior
