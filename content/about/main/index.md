@@ -6,18 +6,19 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  *2019-present*   Research Assistant and Instructor
-                 School of Management, **Binghamton University, State University of New York**
+  *2019-present*   Research Assistant and Instructor<Br>
+                 School of Management<Br> **Binghamton University, State University of New York**
   ## Career 1.0 --Industry Experience
   
-  *2015-2018*      Business Development Manager for Asia
-                 Global Sourcing & Export (GSE) Dept., **Univar China Limited., Qingdao, China**
+  *2015-2018*      Business Development Manager <Br> Asia
+                 Global Sourcing & Export (GSE) Department<Br> 
+                 **Univar China Limited., China**
 
-  *2013-2015*      Sales Manager for South Korea
-                 Overseas Sales Dept., **(Germany)ElringKlinger Engineered Plastics Co. Ltd., Seoul, Korea** 
+  *2013-2015*      Sales Manager for South Korea <Br>
+                 Overseas Sales Department<Br> **ElringKlinger Engineered Plastics Co. Ltd.,Korea** 
                  
-  *2008-2013*      Product Manager for Mainland China
-                 Bulk Commodity Dept., **NCM Shanghai Hersbit Chemical Co., Ltd., Qingdao, China**
+  *2008-2013*      Product Manager for Mainland China <Br>
+                 Bulk Commodity Department<Br> **NCM Hersbit Chemical Co., Ltd., China**
 
 show_outro: true
 outro: |
