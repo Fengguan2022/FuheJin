@@ -24,8 +24,6 @@ Yang, B., Eckardt, R., Jin, F., & Tsai, C.-Y. (2021). Organizational influence a
 
 Jin, F. (2020) Perceptions of team conflict over time in virtual teams: A cross-level moderating role of collectivism value. PDW: Meaningful Mentoring to Develop High Quality Leadership Research. Academy of Management Conference, 80, PDW (Presentation). 
 
-### CONFERENCE PAPERS UNDER REVIEW
-
 Yang, B., Chao, C.-H., Jin, F., Tsai, C.-Y., Liu, Y., & Taras, V. (2022). Effects of personality on leader emergence in virtual teams: An integrative and longitudinal investigation. Southern Management Association Conference, Track 6: Organizational Behavior.
 
 Topaloglu, E., Jin, F., Tsai, C.-Y., Liu, Y., & Taras, V. (2022). Temporal changes in team efficacy perceptions in virtual teams: The moderating role of emotional regulation. Southern Management Association Conference, Track 6: Organizational Behavior.

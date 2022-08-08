@@ -9,11 +9,11 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 description: My current projects, my Journals, and conference papers.
-layout: list
+layout: list-grid  # list, list-sidebar, list-grid
 show_author_byline: false
 show_button_links: false
 show_post_date: false
-show_post_thumbnail: false
+show_post_thumbnail: true
 sidebar:
   author: The R Markdown Team @RStudio
   description: "Projects can be anything!\nCheck out the _index.md file in the /project

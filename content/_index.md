@@ -2,11 +2,11 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a Ph.D. candidate, a Course Instructor, and a Mom... yep, multitasking is my survival mechanism. I am interested in applying advanced research methods and multilevel perspectives to understand group dynamics and leadership in organizations. I am particularly interested in studying leadership in virtual groups. I am devoted to become a researcher AND teacher, better able to "grow others."
+description: I am a Ph.D. candidate, a Course Instructor, and a Mom... yep, multitasking is my survival mechanism. I am interested in applying advanced research methods and multilevel perspectives to understand group dynamics and leadership in organizations. I am particularly interested in studying leadership in virtual groups. I’m devoted to becoming a researcher and educator who can advance knowledge and inspire others.
 
 image_left: true
 images:
-- img/revoir.jpg
+- img/fuhe.png
 show_action_link: true
 show_social_links: true
 subtitle: DOCTORAL CANDIDATE AT BINGHAMTON UNIVERSITY, SUNY

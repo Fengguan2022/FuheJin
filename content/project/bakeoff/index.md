@@ -7,6 +7,11 @@ date: "2022-07-04"
 draft: false
 excerpt: My Journal Papers
 layout: single
+featured: true
+show_post_thumbnail: true
+images:
+- /project/bakeoff/My project.jpg
+
 # links:
 # - icon: door-open
 #  icon_pack: fas
